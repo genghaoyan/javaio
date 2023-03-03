@@ -7,3 +7,7 @@ trydraw是将两个功能串联起来。
 
 
 后续还需要做柱状图的自适应还有pdf上的如规范分类、命名，trail的reset功能实现
+
+
+Day2
+把昨天实现的功能按照作业要求组织成了CoinTossSimulatorTester和CoinTossSimulator两个文件，完成了作业的指定输出。但画图的问题依旧没有解决，还在调试
